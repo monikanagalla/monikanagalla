@@ -1,11 +1,10 @@
 ## About me
-Hi, I’m Monika, I'm currently pursuing my Masters in Robotics Engineering at Worcester Polytechnic Institute. <br/>
-The courses I have pursued so far are Deep Learning, Motion Planning, Robot Dynamics. 
+Hi, I’m Monika, I'm currently pursuing my Masters in Robotics Engineering at Worcester Polytechnic Institute.The courses I have pursued so far are Deep Learning, Motion Planning and Robot Dynamics.   <br/>
+Prior to my masters I worked as Software Developer for 2 years, where I worked with cross functional temas such as Full Stack Development team, Data Science team and Data Analytics team.
 
 ### What interests me
 I’m interested in the fields of Autonomous Driving and Software Development. <br/>
-I’m currently learning Computer Vision and Sensor Fusion for Autonomous Vehicles.
-I’m looking to collaborate on Computer Vision projects
+I’m currently learning Computer Vision and Sensor Fusion for Autonomous Vehicles and looking to collaborate on Computer Vision projects.
 
 ## Portfolio
 
